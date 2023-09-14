@@ -47,7 +47,6 @@ p {
 .nav-link:hover {
   color: #4d63ff;
 }
-
 .block {
   border: 1px solid #ffffff;
   border-radius: 8px;
@@ -57,6 +56,9 @@ p {
 }
 .block:hover {
   box-shadow: 0 0 12px #9a9daf;
+}
+.block-three {
+  padding-bottom: 42px;
 }
 .methods {
   margin-bottom: 20px;
@@ -71,6 +73,10 @@ p {
 }
 .download:hover {
   color: #233aaf;
+}
+.footer {
+  text-align: center;
+  opacity: 0.8;
 }
 @media (max-width: 991px) {
   .methods {
